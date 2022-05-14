@@ -1,4 +1,4 @@
-# Milijunas
+# Milijunaš
 Postani i ti milijunaš uz puno sreće i uzmi Tariku milijun kuna!
 # O igri
 Okušaj svoje opće znanje iz svih područja znanosti poput biologije, kemije, matematike, fizike i opće kulture.
