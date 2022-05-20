@@ -8,3 +8,5 @@ Preuzmi ga jednim klikom (milijunas-final file) i možda baš ti postaneš milij
 Učenik 2.5 razreda Gimnazije Andrije Mohorovičića u Rijeci. Igra je nastala u svrhu projektnog zadatka iz informatike.
 # Programski jezik
 Za izradu kviza korišten je programski jezik Python.
+# Verzije
+Svaki sat informatike (Četvrtkom i petkom) izlazi nova i dopunjena verzija sa više mogućih funkcija (Jokeri i sl.)
